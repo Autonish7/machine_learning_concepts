@@ -1,0 +1,67 @@
+Roles in Machine learning related fields
+
+1. Data Engineer
+
+Job role:
+Scrape Data from the given sources.
+Move/Store the data in optimal servers/warehouses.
+Build data pipelines/APIs for easy access to the data.
+Handle databases/data warehouses.
+
+Skill required:
+Strong grasp of algorithms and data structures
+Programming Languages (Java/R/Python/Scala) and script writing
+Advanced DBMS’s
+BIG DATA Tools (Apache Spark, Hadoop, Apache Kafka, Apache Hive)
+Cloud Platforms (Amazon Web Services, Google Cloud Platform)
+Distributed Systems
+Data Pipelines
+
+=================================================================
+
+2. Data Analyst
+
+Job role:
+Cleaning and organizing Raw data.
+Analyzing data to derive insights.
+Creating data visualizations.
+Producing and maintaining reports.
+Collaborating with teams/colleagues based on the insight gained.
+Optimizing data collection procedures
+
+Skill required:
+Statistical Programming
+Programming Languages (R/SAS/Python)
+Creative and Analytical Thinking
+Business Acumen —Medium to High preferred
+Strong Communication Skills.
+Data Mining, Cleaning, and Munging
+Data Visualization
+Data Story Telling
+SQL, Non-relational databases
+Advanced Microsoft Excel
+
+=================================================================
+
+3. Data Scientist
+A data scientist is someone who is better at statistics than any software engineer and better at software engineering than any statistician
+
+=================================================================
+
+4. ML Engineer
+
+Job role:
+Deploying machine learning models to production ready environment
+Scaling and optimizing the model for production
+Monitoring and maintenance of deployed models
+
+Skills:
+Mathematics
+Programming Languages (R/Python/Java/Scala mainly)
+Distributed Systems
+Data model and evaluation
+Machine Learning models
+Software Engineering & Systems design
+
+
+
